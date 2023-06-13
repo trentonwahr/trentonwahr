@@ -3,7 +3,7 @@
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trentonwahr&layout=compact&theme=react" /></a> 
   <hr>
   <h2>About me:</h2>
-  <h3>I'm a full-stack developer with a background in theatre and customer service! I have a strong love for Javascript and working in React.  </h3>
+  <h3>I'm a full-stack developer with a background in theatre and customer service! I have a strong love for JavaScript and working in React.  </h3>
   <hr>
   <div>
     <h3>Reach out:</h3>
